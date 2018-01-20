@@ -1,0 +1,43 @@
+﻿<root response="True">
+<movie>
+  <meta_info type="movie" title="Interstellar" year="2014" language="English">
+    <poster> https://images-na.ssl-images-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.</poster>
+    <runtime>169 min </runtime>
+    <released>07 Nov 2014</released>
+    <rated>PG-13</rated>
+  </meta_info>
+    
+  <starring_info>
+    <director>Christopher Nolan </director>
+    <writers>
+      <writer>Jonathan Nolan</writer>
+      <writer>Christopher Nolan</writer>  
+    </writers>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Sci-Fi</genre>
+      <genre>Adventure</genre>    
+    </genres>
+    <actors>
+      <actor>John Lithgow </actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Ellen Burstyn</actor>
+      <actor>Mackenzie Foy</actor>
+    </actors>
+    <plot>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</plot>
+    <countries>
+      <country>Iceland</country>
+      <country>Canada</country>
+      <country>UK</country>
+      <country>USA</country>
+    </countries>
+  </starring_info>
+  
+  <scores metascore="74" >
+    <awards>Won 1 Oscar.</awards>
+    <awards>Another 43 wins</awards>
+    <awards>143 nominations.</awards>
+    <imdb imdbRating="8.6" imdbVotes="1,112,625">tt0816692</imdb>
+  </scores>
+</movie>
+</root>
