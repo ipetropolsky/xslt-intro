@@ -4,6 +4,8 @@
 	<xsl:param name="category_id"/>
 
 	<xsl:output method="html" indent="yes" encoding="utf-8" doctype-system="about:legacy-compat"/>
+	<xsl:include href="task4_ext.xsl"/>
+	<xsl:include href="task4_ext2.xsl"/>
 	
 	<xsl:template match="yml_catalog">
 		
@@ -23,7 +25,7 @@
 		<body>
 			<section class="section">
 				<xsl:apply-templates select="shop/offers/offer[categoryId = $category_id]">
-					<xsl:sort select="weight" order="ascending"/>
+					<xsl:sort select="price" order="ascending" data-type="number"/>
 				</xsl:apply-templates>
 			</section>
 		</body>
@@ -36,8 +38,8 @@
 			<div class="box" style="margin:10px">
 				<div class="media">
 					<div class="media-left">
-						<figure class="image is-128x128">
-							<img src="{picture}"/>
+						<figure style="width:128px; text-align:center">
+							<img src="{picture}" style="max-height:200px; max-width:128px"/>
 						</figure>
 					</div>
 					<div class="media-content content">
