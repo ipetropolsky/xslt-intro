@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category id="1177525" name="Офисные принадлежности">
+    <category id="1177528" name="Степлеры, дыроколы"/>
+    <category id="1177530" name="Канцелярские ножи и ножницы"/>
+    <category id="1160584" name="Канцтовары и организация рабочего места">
+      <category id="1180176" name="Глобусы"/>
+      <category id="1182088" name="Закладки для книг"/>
+      <category id="1177529" name="Настольные покрытия"/>
+      <category id="1160615" name="Защита пола"/>
+      <category id="1180445" name="Лупы"/>
+      <category id="1160589" name="Подушки для пальцев"/>
+    </category>
+    <category id="1160611" name="Офисное оборудование и аксессуары">
+      <category id="1197539" name="Товары для ламинирования и брошюровки"/>
+      <category id="1135612" name="Калькуляторы"/>
+      <category id="1160616" name="Подвесные системы"/>
+    </category>
+    <category id="1177591" name="Корректоры"/>
+    <category id="1177527" name="Лотки, подставки для бумаг"/>
+    <category id="1177531" name="Скрепки, кнопки, зажимы"/>
+    <category id="1160866" name="Клей"/>
+    <category id="1160590" name="Органайзеры, настольные наборы"/>
+    <category id="1181779" name="Клейкая лента"/>
+    <category id="1181777" name="Визитницы"/>
+    <category id="1181778" name="Корзины для бумаг"/>
+    <category id="1160614" name="Подставки для оргтехники"/>
+  </category>
+</categories>
