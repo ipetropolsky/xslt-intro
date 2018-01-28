@@ -4,28 +4,28 @@
 
 Варианты ответов:
 1. Запрос по конкретному id или t (названию): 
-	200 <movie>...</movie>
-	404 <error>Фильм не найден</error>
+	```200 <movie>...</movie>
+	404 <error>Фильм не найден</error>```
 	
 2. Ключь приложения это для доступа, насколько я понял?
 	Но у них уже как минимум есть ошибка Invalid Api key!, код по идее должен быть 403
 
 3. Отсутствие параметра t или id, задание неправильных параметров
-	401 <error>Необходимы id или t</error>
+	```401 <error>Необходимы id или t</error>```
 	
 <h3>Задание 2:</h3>
 
-xsltproc task2.xsl 1160574.xml > task2.xml
+```xsltproc task2.xsl 1160574.xml > task2.xml```
 
 <h3>Задание 3:</h3>
 
-xsltproc --param category_id 1168865 task3.xsl 1160574.xml > task3.xml
+```xsltproc --param category_id 1168865 task3.xsl 1160574.xml > task3.xml```
 
 <h3>Задание 4:</h3>
 
-xsltproc --param category_id 1168865 task4.xsl 1160574.xml > task4.html
+```xsltproc --param category_id 1168865 task4.xsl 1160574.xml > task4.html```
 
 <h3>Доп задание</h3> (другой xml каталог, в предыдущем слишком много товаров):
 
-xsltproc task_dop.xsl 1160584.xml > task_dop.xml
+```xsltproc task_dop.xsl 1160584.xml > task_dop.xml```
 
