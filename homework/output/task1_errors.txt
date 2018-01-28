@@ -1,0 +1,47 @@
+Статускод 400
+<root response="False">
+	<error>Year must be numeric</error>
+</root>
+И другие ошибки, связанные связанные с невозможностью преобразования типов
+
+Статускод 403
+<root response="False">
+	<error>Invalid API key!</error>
+</root>
+
+<root response="False">
+	<error>Access restricted</error>
+</root>
+
+Статускод 404
+<root response="False">
+	<error>Movie not found</error>
+</root>
+
+Статускод 405
+<root response="False">
+	<error>There is no method details on author</error>
+</root>
+
+Статускод 410
+<root response="False">
+	<error>Movie is deleted</error>
+</root>
+
+Статускод 418
+<root response="False">
+	<error>Unsuccessful coffee making</error>
+</root>
+
+Статускод 426
+<root response="False">
+	<error>Switch to next API version for this request</error>
+</root>
+
+Статускод 429
+<root response="False">
+	<error>API Key rate limit reached</error>
+</root>
+
+По статускодам 500, невозможно предугадать, что там будет, 
+так что просто передаем название статускода в тексте
