@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <!DOCTYPE category
+  SYSTEM "about:legacy-compat">
+<category id="1132530" name="Электроника">
+   <category id="1168486" name="Аксессуары">
+      <category id="1176931" name="Чехлы"/>
+      <category id="1133684" name="Расходные материалы">
+         <category id="1168864" name="Картриджи и тонеры"/>
+         <category id="1196960" name="Бумага для печати"/>
+         <category id="1198302" name="Для переплетчиков"/>
+         <category id="1195802" name="Для ламинаторов"/>
+         <category id="1168866" name="Для записи данных"/>
+      </category>
+      <category id="1133824" name="Защитные стекла и пленки"/>
+      <category id="1133859" name="Наушники"/>
+      <category id="1133712" name="Кабели и переходники">
+         <category id="1168847" name="Кабели"/>
+         <category id="1168849" name="Переходники и адаптеры"/>
+         <category id="1133707" name="USB-хабы"/>
+         <category id="1177705" name="Разветвители"/>
+      </category>
+      <category id="1175387" name="Батарейки и аккумуляторы"/>
+      <category id="1133708" name="Сетевые фильтры, тройники и удлинители"/>
+      <category id="1133685" name="Носители информации">
+         <category id="1133719" name="USB flash накопители"/>
+         <category id="1133686" name="Внешние жесткие диски"/>
+         <category id="1181849" name="Адаптеры и корпуса для жестких дисков"/>
+      </category>
+      <category id="1133688" name="Сетевое оборудование">
+         <category id="1133690" name="Маршрутизаторы"/>
+         <category id="1133691" name="Сетевые карты и адаптеры"/>
+         <category id="1135609" name="Коммутаторы"/>
+         <category id="1135608" name="Wi-Fi оборудование"/>
+         <category id="1196548" name="Сетевые хранилища"/>
+         <category id="1135611" name="Принт-серверы"/>
+         <category id="1133689" name="Модемы"/>
+      </category>
+      <category id="1135606" name="Аккумуляторы">
+         <category id="1172547" name="Внешние аккумуляторы"/>
+         <category id="1172543" name="Для мобильных телефонов"/>
+         <category id="1172544" name="Для фото-видеотехники"/>
+      </category>
+      <category id="1133827" name="Сумки и рюкзаки">
+         <category id="1197958" name="Для ноутбуков"/>
+         <category id="1197959" name="Для фото и видеотехники"/>
+      </category>
+      <category id="1160831" name="Карты памяти"/>
+      <category id="1133713" name="Зарядные устройства и док-станции"/>
+      <category id="1171261" name="Кронштейны и подставки"/>
+      <category id="1133709" name="Чистящие средства"/>
+      <category id="1133826" name="Автомобильные держатели"/>
+      <category id="1151500" name="Антенны">
+         <category id="1151502" name="Антенны комнатные"/>
+         <category id="1151501" name="Антенны для цифрового TV"/>
+         <category id="1182679" name="Аксессуары"/>
+      </category>
+      <category id="1133705" name="Bluetooth-гарнитуры"/>
+      <category id="1135522" name="Микрофоны"/>
+      <category id="1133721" name="Картридеры"/>
+      <category id="1133769" name="Универсальные пульты управления"/>
+      <category id="1133758" name="Цифровые фоторамки"/>
+      <category id="1178597" name="Моноподы для селфи"/>
+      <category id="1183406" name="Мобильная фотография"/>
+      <category id="1133825" name="Стилусы"/>
+      <category id="1180558" name="Перчатки для сенсорных экранов"/>
+      <category id="1168860" name="VR и 3D очки">
+         <category id="1168861" name="Очки виртуальной реальности"/>
+         <category id="1133718" name="3D очки"/>
+      </category>
+      <category id="1147487" name="ТВ-тюнеры"/>
+      <category id="1135603" name="Док-станции и подставки"/>
+   </category>
+   <category id="1133680" name="Компьютерная периферия">
+      <category id="1133693" name="Клавиатуры и мыши">
+         <category id="1133695" name="Компьютерные мыши"/>
+         <category id="1133694" name="Клавиатуры"/>
+         <category id="1183244" name="Коврики для мышей"/>
+         <category id="1133696" name="Комплекты: клавиатура и мышь"/>
+      </category>
+      <category id="1133710" name="Комплектующие для компьютера">
+         <category id="1133854" name="Оперативная память"/>
+         <category id="1170645" name="SSD-накопители"/>
+         <category id="1133850" name="Видеокарты"/>
+         <category id="1133855" name="Блоки питания для компьютеров"/>
+         <category id="1133851" name="Материнские платы"/>
+         <category id="1133856" name="Системы охлаждения"/>
+         <category id="1133853" name="Жесткие диски"/>
+         <category id="1180178" name="Корпуса"/>
+         <category id="1133857" name="Звуковые карты"/>
+         <category id="1133852" name="Процессоры"/>
+      </category>
+      <category id="1141822" name="Офисная техника">
+         <category id="1133683" name="Принтеры и МФУ"/>
+         <category id="1197338" name="Ламинаторы, брошюровщики"/>
+         <category id="1197339" name="Шредеры"/>
+         <category id="1135598" name="Сканеры и копиры"/>
+      </category>
+      <category id="1133682" name="Мониторы"/>
+      <category id="1133702" name="Колонки для компьютера"/>
+      <category id="1178832" name="Офисные гарнитуры"/>
+      <category id="1136841" name="Источники бесперебойного питания (UPS)"/>
+      <category id="1133714" name="Графические планшеты"/>
+      <category id="1172361" name="Подставки для ноутбуков"/>
+      <category id="1133700" name="Веб-камеры"/>
+   </category>
+   <category id="1133762" name="Аудио-видео техника">
+      <category id="1196662" name="Наушники"/>
+      <category id="1133763" name="Телевизоры"/>
+      <category id="1181459" name="Портативная акустика"/>
+      <category id="1164174" name="Hi-Fi компоненты">
+         <category id="1151363" name="Акустические системы"/>
+         <category id="1154964" name="Проигрыватели виниловых дисков"/>
+         <category id="1133764" name="CD-проигрыватели"/>
+         <category id="1167391" name="Цифро-аналоговые преобразователи"/>
+         <category id="1133766" name="Ресиверы и усилители"/>
+         <category id="1167390" name="Аксессуары для виниловых проигрывателей"/>
+      </category>
+      <category id="1133771" name="MP3-плееры и диктофоны"/>
+      <category id="1176155" name="Медиаплееры"/>
+      <category id="1181460" name="Магнитолы, радиоприемники"/>
+      <category id="1178805" name="ТВ-ресиверы"/>
+      <category id="1133863" name="Проекторы"/>
+      <category id="1178745" name="Музыкальные центры"/>
+      <category id="1176165" name="DVD и Blu-Ray-плееры"/>
+      <category id="1133768" name="Домашние кинотеатры"/>
+   </category>
+   <category id="1147543" name="Консоли и игровые аксессуары">
+      <category id="1179862" name="Клавиатуры, мыши">
+         <category id="1179909" name="Мыши"/>
+         <category id="1179908" name="Клавиатуры"/>
+         <category id="1179912" name="Коврики для мышек"/>
+      </category>
+      <category id="1133699" name="Геймпады, джойстики, рули"/>
+      <category id="1178114" name="Аксессуары"/>
+      <category id="1179901" name="Игровые гарнитуры"/>
+      <category id="1148151" name="Игровые консоли"/>
+      <category id="1179867" name="Игровые кресла"/>
+      <category id="1182952" name="Карты оплаты"/>
+      <category id="1193537" name="Виртуальная реальность"/>
+   </category>
+   <category id="1133676" name="Телефоны">
+      <category id="1168060" name="Смартфоны"/>
+      <category id="1133677" name="Мобильные телефоны"/>
+      <category id="1133679" name="Радиотелефоны DECT"/>
+      <category id="1171797" name="Умные часы"/>
+   </category>
+   <category id="1133681" name="Компьютеры">
+      <category id="1178973" name="Планшеты"/>
+      <category id="1156814" name="Ноутбуки"/>
+      <category id="1133687" name="Настольные компьютеры и моноблоки"/>
+      <category id="1171210" name="Зарядные устройства"/>
+   </category>
+   <category id="1133748" name="Фото и видео">
+      <category id="1133752" name="Цифровые видеокамеры"/>
+      <category id="1133749" name="Зеркальные фотоаппараты"/>
+      <category id="1133751" name="Цифровые фотоаппараты"/>
+      <category id="1133757" name="Объективы"/>
+      <category id="1146041" name="Фотоаксессуары">
+         <category id="1133862" name="Светофильтры"/>
+         <category id="1180633" name="Свет для фотостудии"/>
+         <category id="1133756" name="Штативы"/>
+         <category id="1196863" name="Прочие аксессуары"/>
+         <category id="1133754" name="Вспышки"/>
+      </category>
+   </category>
+   <category id="1160628" name="Безопасность и наблюдение">
+      <category id="1163006" name="Камеры видеонаблюдения"/>
+      <category id="1160649" name="Домофоны"/>
+      <category id="1163005" name="Звонки"/>
+      <category id="1160652" name="Охранное оборудование для дома и дачи"/>
+      <category id="1160653" name="Системы видеонаблюдения"/>
+      <category id="1176515" name="Регистратор"/>
+      <category id="1196799" name="Умный дом"/>
+      <category id="1182712" name="Системы контроля доступа"/>
+   </category>
+   <category id="1133750" name="Оптические приборы">
+      <category id="1198362" name="Аксессуары для телескопа"/>
+      <category id="1133761" name="Телескопы"/>
+      <category id="1133760" name="Микроскопы"/>
+      <category id="1167560" name="Зрительные трубы"/>
+      <category id="1198374" name="Планетарии"/>
+      <category id="1198363" name="Аксессуары для микроскопа"/>
+   </category>
+   <category id="1136840" name="Музыкальные инструменты и оборудование">
+      <category id="1177146" name="Гитары"/>
+      <category id="1177184" name="Гитарные аксессуары и оборудование"/>
+      <category id="1177147" name="Клавишные инструменты и синтезаторы"/>
+      <category id="1177149" name="DJ-оборудование"/>
+      <category id="1177148" name="Ударные"/>
+      <category id="1177150" name="Студийное оборудование"/>
+      <category id="1177151" name="Аксессуары"/>
+      <category id="1194936" name="Струнные инструменты"/>
+      <category id="1195137" name="Духовые инструменты"/>
+   </category>
+   <category id="1183169" name="Товары для вейпинга"/>
+   <category id="1133717" name="Электронные книги"/>
+   <category id="1196861" name="Кассовое оборудование"/>
+</category>
+
