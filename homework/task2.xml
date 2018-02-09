@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category id="1160574" name="Канцелярские товары">
+    <category id="1148005" name="Школа">
+      <category id="1196953" name="Письменные принадлежности">
+        <category id="1196956" name="Ручки"/>
+        <category id="1196954" name="Карандаши"/>
+        <category id="1196955" name="Маркеры"/>
+        <category id="1196957" name="Фломастеры"/>
+      </category>
+      <category id="1196963" name="Тетради"/>
+      <category id="1166929" name="Ранцы и рюкзаки"/>
+      <category id="1196951" name="Бумага и картон"/>
+      <category id="1196952" name="Чертежные принадлежности"/>
+      <category id="1177523" name="Дневники"/>
+      <category id="1167299" name="Пеналы"/>
+      <category id="1196967" name="Пластилин"/>
+      <category id="1178638" name="Обложки"/>
+      <category id="1196969" name="Аксессуары для труда"/>
+      <category id="1196899" name="Канцелярские наборы"/>
+      <category id="1181515" name="Подставки для учебников"/>
+      <category id="1179318" name="Счетный материал"/>
+    </category>
+    <category id="1160597" name="Письменные принадлежности">
+      <category id="1160598" name="Ручки"/>
+      <category id="1196964" name="Краски"/>
+      <category id="1160600" name="Карандаши"/>
+      <category id="1160599" name="Маркеры и текстовыделители"/>
+      <category id="1196966" name="Кисти"/>
+      <category id="1177559" name="Фломастеры"/>
+      <category id="1196968" name="Мелки и пастель"/>
+      <category id="1160602" name="Чернила и тушь"/>
+      <category id="1160865" name="Наборы письменных принадлежностей"/>
+    </category>
+    <category id="1160576" name="Бумага и бумажная продукция">
+      <category id="1177554" name="Тетради"/>
+      <category id="1177555" name="Ежедневники, блокноты, записные книжки"/>
+      <category id="1177521" name="Бумага для рисования, черчения"/>
+      <category id="1177558" name="Бумага цветная, картон"/>
+      <category id="1160578" name="Бумага для заметок, стикеры, закладки"/>
+      <category id="1168865" name="Бумага для печати"/>
+      <category id="1160580" name="Бумага упаковочная"/>
+      <category id="1160581" name="Бланки"/>
+      <category id="1177522" name="Конверты, пакеты"/>
+    </category>
+    <category id="1177525" name="Офисные принадлежности">
+      <category id="1177528" name="Степлеры, дыроколы"/>
+      <category id="1177530" name="Канцелярские ножи и ножницы"/>
+      <category id="1160584" name="Канцтовары и организация рабочего места">
+        <category id="1180176" name="Глобусы"/>
+        <category id="1182088" name="Закладки для книг"/>
+        <category id="1177529" name="Настольные покрытия"/>
+        <category id="1160615" name="Защита пола"/>
+        <category id="1180445" name="Лупы"/>
+        <category id="1160589" name="Подушки для пальцев"/>
+      </category>
+      <category id="1160611" name="Офисное оборудование и аксессуары">
+        <category id="1197539" name="Товары для ламинирования и брошюровки"/>
+        <category id="1135612" name="Калькуляторы"/>
+        <category id="1160616" name="Подвесные системы"/>
+      </category>
+      <category id="1177591" name="Корректоры"/>
+      <category id="1177527" name="Лотки, подставки для бумаг"/>
+      <category id="1177531" name="Скрепки, кнопки, зажимы"/>
+      <category id="1160866" name="Клей"/>
+      <category id="1160590" name="Органайзеры, настольные наборы"/>
+      <category id="1181779" name="Клейкая лента"/>
+      <category id="1181777" name="Визитницы"/>
+      <category id="1181778" name="Корзины для бумаг"/>
+      <category id="1160614" name="Подставки для оргтехники"/>
+    </category>
+    <category id="1177539" name="Чертежные принадлежности">
+      <category id="1177544" name="Ластики, точилки"/>
+      <category id="1177541" name="Геометрические принадлежности"/>
+      <category id="1177540" name="Циркули, готовальни"/>
+      <category id="1166927" name="Тубусы, портфели для чертежей"/>
+    </category>
+    <category id="1160593" name="Папки и портфели">
+      <category id="1160594" name="Папки"/>
+      <category id="1160596" name="Файлы и разделители"/>
+    </category>
+    <category id="1160603" name="Демонстрационное оборудование">
+      <category id="1160604" name="Доски"/>
+      <category id="1160606" name="Бейджи"/>
+      <category id="1160605" name="Аксессуары для досок и флипчартов"/>
+      <category id="1160607" name="Демонстрационные системы"/>
+      <category id="1160610" name="Конверты с магнитной планкой"/>
+    </category>
+    <category id="1177551" name="Штемпельная продукция">
+      <category id="1177553" name="Печати, штампы"/>
+      <category id="1177598" name="Кассы, подушки"/>
+    </category>
+  </category>
+</categories>
