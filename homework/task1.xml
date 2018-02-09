@@ -1,61 +1,102 @@
-<root response="True">
+<doc>
 	<movie>
 		<general>
 			<title>Interstellar</title>
 			<release>
 				<year>2014</year>
-				<date>07 Nov</date>
+				<month>11</month>
+				<day>7</day>
+				<timestamp>1234</timestamp>
 			</release>
-			<runtime>169 min</runtime>
+			<runtime units="min">169</runtime>
 			<genres>
 				<genre>Adventure</genre>
 				<genre>Drama</genre>
 				<genre>Sci-Fi</genre>
 			</genres>
-			<poster>https://images-na.ssl-images-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg</poster>
+			<poster>
+				<size>
+					<width>300</width>
+					<height>800</height>
+				</size>
+				<src>https://images-na.ssl-images-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg</src>
+			</poster>
 			<plot>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</plot>
 			<language>English</language>
-			<awards>Won 1 Oscar. Another 43 wins & 143 nominations.</awards>
+			<awards>
+				<award type="oscar">
+					<quantity>1</quantity>
+				</award>
+				<award type="other">
+					<quantity>43</quantity>
+				</award>
+				<award type="nomination">
+					<quantity>143</quantity>
+				</award>
+			</awards>
 		</general>
 		<meta>
 			<rated>PG-13</rated>
-			<imdb>
-				<rating>8.6</rating>
+			<rating type="imdb">
+				<value>8.6</value>
 				<votes>1112625</votes>
 				<id>tt0816692</id>
-			<imdb>
+			</rating>
 			<score>74</score>
 			<type>movie</type>
 		</meta>
 		<production>
-			<director name="Christopher Nolan">
-			</director>
-			<writers>
-				<writer name="Jonathan Nolan">
-				<writer name="Christopher Nolan">
-			<writers>
-			<actors>
-				<actor name="Ellen Burstyn">
-					<url type="imdb">url to Burstyn on imdb</url>
-				</actor>
-				<actor name="Matthew McConaughey">
-					<url type="imdb">url to McConaughey on imdb</url>
-				</actor>
-				<actor name="Mackenzie Foy">
-					<url type="imdb">url to Foy on imdb</url>
-				</actor>
-				<actor name="John Lithgow">
-					<url type="imdb">url to Lithgow on imdb</url>
-				</actor>
-			</actors>
+			<person role="director">
+				<firstname>Christopher</firstname>
+				<secondname>Nolan</secondname>
+				<link type="some_api">link to Nolan</link>
+			</person>
+			<person role="writer">
+				<firstname>Christopher</firstname>
+				<secondname>Nolan</secondname>
+				<link type="some_api">link to Nolan</link>
+			</person>
+			<person role="writer">
+				<firstname>Jonathan</firstname>
+				<secondname>Nolan</secondname>
+				<link type="some_api">link to Nolan</link>
+			</person>
+			<person role="actor">
+				<firstname>Ellen</firstname>
+				<secondname>Burstyn</secondname>
+				<link type="some_api">link to Burstyn</link>
+			</person>
+			<person role="actor">
+				<firstname>Matthew</firstname>
+				<secondname>McConaughey</secondname>
+				<link type="some_api">link to McConaughey</link>
+			</person>
+			<person role="actor">
+				<firstname>Mackenzie</firstname>
+				<secondname>Foy</secondname>
+				<link type="some_api">link to Foy</link>
+			</person>
+			<person role="actor">
+				<firstname>John</firstname>
+				<secondname>Lithgow</secondname>
+				<link type="some_api">link to Lithgow</link>
+			</person>
 			
 			<countries>
-				<country name="USA"/>
-				<country name="UK"/>
-				<country name="Canada"/>
-				<country name="Iceland"/>
-			<countries>
+				<country>
+					<name>USA</name>
+				</country>
+				<country>
+					<name>UK</name>
+				</country>
+				<country>
+					<name>Canada</name>
+				</country>
+				<country>
+					<name>Iceland</name>
+				</country>
+			</countries>
 		</production>
 
 	</movie>
-</root>
+</doc>

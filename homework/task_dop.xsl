@@ -7,6 +7,9 @@
 		<xsl:apply-templates select="shop/categories"/>	
 	</xsl:template>
 	
+	<xsl:key name="group" match="offer" use="concat(categoryId,'#',vendor)"/>
+	
+	
 	<xsl:template match="categories">
 		<categories>
 			<xsl:apply-templates select="category[not(@parentId)]"/>	
@@ -15,7 +18,7 @@
 	
 	<xsl:template match="category">
 		<category id="{@id}" name="{text()}">
-			<xsl:apply-templates select="/yml_catalog/shop/offers/offer[categoryId = current()/@id and vendor and not(vendor=preceding-sibling::*/vendor)]" mode="vendor_list">
+			<xsl:apply-templates select="/yml_catalog/shop/offers/offer[generate-id(.) = generate-id(key('group',concat(current()/@id,'#',vendor)))]" mode="vendor_list">
 				<xsl:with-param name="category_id" select="@id"/>
 			</xsl:apply-templates>
 			
@@ -26,7 +29,7 @@
 	<xsl:template match="offer" mode="vendor_list">
 		<xsl:param name="category_id"/>
 		<vendor name="{vendor}">
-			<xsl:apply-templates select="/yml_catalog/shop/offers/offer[vendor=current()/vendor and categoryId=$category_id]" mode="offer"/>
+			<xsl:apply-templates select="key('group',concat($category_id,'#',current()/vendor))" mode="offer"/>
 		</vendor>
 	</xsl:template>
 	
