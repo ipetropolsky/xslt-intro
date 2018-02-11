@@ -6,6 +6,9 @@
 
     <xsl:param name="paramCategoryId" select="1140537"/>
 
+    <xsl:include href="task-4-offer-many-words.xsl"/>
+    <xsl:include href="task-4-offer-normal.xsl"/>
+
     <xsl:template match="yml_catalog">
         <xsl:apply-templates select="shop/offers"/>
     </xsl:template>
@@ -77,29 +80,5 @@
         </html>
     </xsl:template>
 
-    <!-- Do full copy of offer, this will apply to offers selected by previous template -->
-    <xsl:template match="offer">
-        <div class="item">
-            <img src="{picture}"/>
-            <h1><xsl:value-of select="name"/></h1>
-            <h2><xsl:value-of select="author"/></h2>
-            <!-- Add extra notes when the book is old OR when it has many pages -->
-            <xsl:if test="page_extent &gt; 200">
-                <h3 class="tag">Много букв!</h3>
-            </xsl:if>
-            <xsl:if test="year &lt; 2010">
-                <h3 class="tag">Старая книжка!</h3>
-            </xsl:if>
-            <!-- Write out the url to ozon.ru -->
-            <a href="{url}">
-                Купить на Ozon.ru:
-                <xsl:value-of select="concat(price,' ',currencyId)"/>
-            </a>
-            <!-- Write a paragraph of description -->
-            <p>
-                <xsl:value-of select="description"/>
-            </p>
-        </div>
-    </xsl:template>
 
 </xsl:stylesheet>
