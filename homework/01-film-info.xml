@@ -8,15 +8,18 @@
     <!--Корректный ответ-->
     <root response="True">
     <movie title="Interstellar" type="movie" rated="PG-13" runtime="169" metascore="74" poster="https://images-na.ssl-images-amazon.com/images/M/MV5BZjdkOTU3..">
-        <imdbData>
-            <rating>8.6</rating>
-            <votes>1112625</votes>
-            <id>tt0816692</id>
-        </imdbData>
+        <evaluationData>
+            <resource name="imdb">
+                <rating>8.6</rating>
+                <votes>1112625</votes>
+                <id>tt0816692</id>
+            </resource>
+        </evaluationData>
         <released>
             <year>2014</year>
             <month>Nov</month>
             <dayOfMonth>07</dayOfMonth>
+            <unixTimestamp>1415318400</unixTimestamp>
         </released>
         <awards>
             <oscars>1</oscars>
@@ -57,7 +60,7 @@
     </root>
 
     <!--Ошибка. Фильм не найден.-->
-    <root response="True">
+    <root response="False">
     <error>
         <code>404</code>
         <message>Movie not found</message>

@@ -13,24 +13,22 @@
         </xsl:processing-instruction>
         <root>
             <category>
-                <xsl:apply-templates select="//categories/category[@id = $categoryId]"/>
+                <xsl:apply-templates select="shop/categories/category[@id = $categoryId]"/>
             </category>
             <offers>
-                <xsl:apply-templates select="shop/offers/offer[categoryId/text() = $categoryId]">
+                <xsl:apply-templates select="shop/offers/offer[categoryId = $categoryId]">
                     <xsl:sort select="price" data-type="number" order="descending"/>
                 </xsl:apply-templates>
             </offers>
         </root>
     </xsl:template>
 
-    <xsl:template match="//categories/category">
+    <xsl:template match="shop/categories/category">
         <xsl:value-of select="text()"/>
     </xsl:template>
 
     <xsl:template match="shop/offers/offer">
-        <xsl:element name="{name(.)}">
-            <xsl:copy-of select="node()|@*"/>
-        </xsl:element>
+        <xsl:copy-of select="."/>
     </xsl:template>
 
 </xsl:stylesheet>
