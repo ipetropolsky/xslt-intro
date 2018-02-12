@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<category id="1132529" name="Музыка">
+  <category id="1143123" name="Рок и Альтернатива">
+    <category id="1143126" name="Альтернатива. Инди. Андеграунд">
+      <category id="1143420" name="Альтернативный поп/рок. Инди. Пост панк"/>
+      <category id="1143441" name="Indie"/>
+      <category id="1143421" name="Гранж, пост гранж, нью метал"/>
+      <category id="1143422" name="Индастриал"/>
+      <category id="1143434" name="Российская альтернативная музыка"/>
+      <category id="1143429" name="Emo, emo-core"/>
+      <category id="1143424" name="Линия INDIE-ВИД"/>
+    </category>
+    <category id="1143129" name="Классический рок"/>
+    <category id="1143130" name="Мэйнстрим поп рок"/>
+    <category id="1143134" name="Метал">
+      <category id="1143247" name="Heavy Metal"/>
+      <category id="1143242" name="Black metal. Death metal"/>
+      <category id="1143241" name="Gothic metal"/>
+      <category id="1143243" name="Power metal"/>
+      <category id="1174913" name="Trash metal"/>
+      <category id="1143244" name="EBM"/>
+      <category id="1143209" name="Тяжелый рок. Метал в России"/>
+      <category id="1182224" name="Groove-metal. Metalcore"/>
+    </category>
+    <category id="1143133" name="Хард-рок"/>
+    <category id="1143128" name="Арт-рок. Прогрессив-рок"/>
+    <category id="1143135" name="Русский рок">
+      <category id="1143157" name="Исполнители современного русского рока"/>
+      <category id="1143156" name="Питерский рок. Рок-группы России"/>
+      <category id="1143155" name="Московский рок"/>
+      <category id="1143159" name="Легенды русского рока"/>
+      <category id="1143158" name="Рок-музыка ближнего зарубежья"/>
+      <category id="1143160" name="Лови настроение Рок-н-Ролл"/>
+    </category>
+    <category id="1143132" name="Фолк-рок"/>
+    <category id="1143131" name="Рок-н-ролл. Рокабилли"/>
+    <category id="1143141" name="Блюз-рок"/>
+    <category id="1143142" name="Сборники рок музыки"/>
+    <category id="1143127" name="Бритпоп. Манчестер"/>
+    <category id="1143138" name="Зарубежный рок MP3"/>
+    <category id="1143125" name="Панк. Ска">
+      <category id="1143470" name="Русский панк-рок"/>
+      <category id="1143471" name="Ska"/>
+      <category id="1182225" name="Панк-рок"/>
+    </category>
+    <category id="1143124" name="Русский рок MP3"/>
+    <category id="1143137" name="Французский рок"/>
+  </category>
+  <category id="1142826" name="Популярная музыка">
+    <category id="1142839" name="Поп-музыка">
+      <category id="1142883" name="Зарубежная поп-музыка"/>
+      <category id="1142887" name="Сборники поп-музыки"/>
+      <category id="1142885" name="Российская поп-музыка"/>
+      <category id="1146075" name="Российская поп-музыка прошлых лет (80-е - 90-е гг.)"/>
+      <category id="1142884" name="Популярная музыка MP3"/>
+      <category id="1142886" name="Шведская и датская поп-музыка"/>
+    </category>
+    <category id="1142838" name="R'n'B. Хип-Хоп. Рэп">
+      <category id="1143639" name="R'n'B"/>
+      <category id="1142981" name="Хип-Хоп (Hip-Hop)"/>
+      <category id="1143638" name="Рэп"/>
+      <category id="1143640" name="Urban"/>
+      <category id="1142980" name="Рэп и Хип-хоп в России"/>
+      <category id="1142982" name="Сборники Rap Hip-Hop R'n'B"/>
+    </category>
+    <category id="1142837" name="Музыка театра и кино (саундтреки). Радиоспектакли">
+      <category id="1143013" name="Музыка из зарубежных фильмов"/>
+      <category id="1143015" name="Музыка к советским фильмам"/>
+      <category id="1143017" name="Оперетта. Мюзикл. Театральные постановки"/>
+      <category id="1143011" name="Актер и песня"/>
+      <category id="1143021" name="Лучшие саундтреки Голливуда"/>
+      <category id="1143016" name="Музыка к современному российскому кино и сериалам"/>
+      <category id="1143014" name="Музыка к мультфильмам"/>
+      <category id="1143018" name="Рок-опера"/>
+      <category id="1143019" name="Театр у микрофона. Спектакли. Передачи"/>
+      <category id="1143012" name="Индийское кино"/>
+    </category>
+    <category id="1142829" name="Новая волна, синтипоп, электропоп"/>
+    <category id="1142841" name="Шансон">
+      <category id="1173870" name="Исполнители"/>
+      <category id="1142870" name="Шансон и барды MP3"/>
+      <category id="1142859" name="Ресторанные и дворовые песни"/>
+      <category id="1142860" name="Сборники русского шансона"/>
+    </category>
+    <category id="1142835" name="Авторская песня"/>
+    <category id="1142836" name="Для детей">
+      <category id="1143028" name="Песни и танцы для детей"/>
+      <category id="1143027" name="Классическая музыка для детей"/>
+      <category id="1143029" name="Сказки. Мюзиклы. Инсценировки"/>
+      <category id="1143024" name="Музыка для детей MP3"/>
+      <category id="1143031" name="Колыбельные песни"/>
+      <category id="1143026" name="Звуки природы"/>
+      <category id="1143030" name="Развивающие программы и музыка"/>
+      <category id="1143032" name="Песни из кино и мультфильмов"/>
+      <category id="1143025" name="Серия дисков &quot;Happy Baby&quot;"/>
+    </category>
+    <category id="1142834" name="Популярные музыкальные серии">
+      <category id="1143053" name="Созвездие хитов"/>
+      <category id="1143047" name="Grand Collection"/>
+      <category id="1143055" name="Музыкальные открытки (Musicards)"/>
+      <category id="1143051" name="Любовное настроение"/>
+      <category id="1143050" name="Любимые песни.RU"/>
+    </category>
+    <category id="1142843" name="Французская  эстрада и шансон"/>
+    <category id="1142827" name="Ретро эстрада">
+      <category id="1143121" name="Эстрада 50-60-х годов"/>
+      <category id="1143119" name="Великие исполнители России ХХ века"/>
+      <category id="1143114" name="Сборники"/>
+      <category id="1143118" name="Ретро и эстрада MP3"/>
+      <category id="1143117" name="Эстрада 20-30 годов"/>
+    </category>
+    <category id="1142831" name="Disco 70-90-х"/>
+    <category id="1142828" name="Итальянская эстрада">
+      <category id="1143727" name="Исполнители"/>
+      <category id="1143088" name="Сборники"/>
+    </category>
+    <category id="1142830" name="Романсы"/>
+    <category id="1142844" name="Архивы фирмы &quot;Мелодия&quot;"/>
+    <category id="1142847" name="Военная и патриотическая песня"/>
+    <category id="1142833" name="Разговорный жанр"/>
+    <category id="1142832" name="Караоке"/>
+  </category>
+  <category id="1142707" name="Классическая музыка">
+    <category id="1142709" name="Зарубежные композиторы"/>
+    <category id="1142728" name="Оркестровые произведения"/>
+    <category id="1142710" name="Исполнители">
+      <category id="1142775" name="Лучшие вокалисты"/>
+      <category id="1142765" name="Таланты России - солисты и исполнители"/>
+      <category id="1142766" name="Новые имена оперного искусства"/>
+    </category>
+    <category id="1142717" name="Сборники классической музыки"/>
+    <category id="1142711" name="Фортепианная музыка"/>
+    <category id="1142726" name="Дирижеры"/>
+    <category id="1142732" name="Симфонические произведения"/>
+    <category id="1142720" name="Опера, оперетта, мюзикл"/>
+    <category id="1142708" name="Русские композиторы"/>
+    <category id="1142715" name="Скрипка. Концерты"/>
+    <category id="1142712" name="Хоровые произведения"/>
+    <category id="1142729" name="Музыка для различных инструментов"/>
+    <category id="1142722" name="Классическая музыка MP3"/>
+    <category id="1142718" name="Виолончель.Концерты"/>
+    <category id="1142721" name="Серии классической музыки">
+      <category id="1143717" name="Apex"/>
+      <category id="1142742" name="The Very Best Of. EMI Classic"/>
+      <category id="1143719" name="Das Alte Werk"/>
+      <category id="1142741" name="The Best of Classics"/>
+      <category id="1142743" name="Зодиакальная коллекция классики"/>
+      <category id="1143722" name="Inspiration"/>
+      <category id="1143720" name="Elatus"/>
+      <category id="1143718" name="Brilliant Classics"/>
+    </category>
+    <category id="1142731" name="Мировая классика в современной обработке"/>
+    <category id="1142716" name="Популярная классика"/>
+    <category id="1142727" name="Архивы фирмы &quot;Мелодия&quot;"/>
+    <category id="1142714" name="Органная музыка"/>
+    <category id="1142724" name="Балеты. Вальсы. Мазурки"/>
+    <category id="1142713" name="Духовная музыка и церковное пение"/>
+    <category id="1142719" name="Классическая гитара"/>
+    <category id="1143726" name="Марши"/>
+  </category>
+  <category id="1142603" name="Джаз &amp; Блюз">
+    <category id="1142609" name="Джаз">
+      <category id="1142686" name="Вокальный Джаз"/>
+      <category id="1142692" name="Классический джаз"/>
+      <category id="1142694" name="Сборники джаза"/>
+      <category id="1142687" name="Фортепианный джаз"/>
+      <category id="1142684" name="Latin Jazz. Guitar Jazz"/>
+      <category id="1142688" name="Avant-Garde Jazz"/>
+      <category id="1142680" name="Free Jazz"/>
+      <category id="1142682" name="Jazz-Pop"/>
+      <category id="1142693" name="Джаз в России"/>
+      <category id="1143706" name="Soul Jazz"/>
+      <category id="1142681" name="Jazz Blues"/>
+      <category id="1142679" name="Cool Jazz"/>
+      <category id="1142683" name="Jazz-Rock"/>
+      <category id="1142689" name="Big Band"/>
+      <category id="1142685" name="Progressive Jazz"/>
+      <category id="1142690" name="Оркестровый джаз"/>
+    </category>
+    <category id="1142607" name="Соул"/>
+    <category id="1142612" name="Легенды джаза и блюза">
+      <category id="1142630" name="Легенды джаза"/>
+      <category id="1142631" name="Легенды блюза"/>
+    </category>
+    <category id="1142610" name="Блюз">
+      <category id="1142672" name="Soul-Blues"/>
+      <category id="1142676" name="Сборники блюза"/>
+      <category id="1142678" name="Blues-Rock"/>
+      <category id="1142671" name="Electric Blues"/>
+      <category id="1142674" name="Piano Blues"/>
+      <category id="1142670" name="Acoustic Blues"/>
+      <category id="1142673" name="Country Blues"/>
+    </category>
+    <category id="1142604" name="Bop. Post-bop. Hard-bop"/>
+    <category id="1142608" name="Фанк"/>
+    <category id="1142605" name="Swing"/>
+    <category id="1142614" name="Фьюжн"/>
+    <category id="1142611" name="Acid Jazz. Smooth Jazz">
+      <category id="1142666" name="Acid Jazz"/>
+      <category id="1142669" name="Smooth Jazz"/>
+      <category id="1142667" name="Fusion"/>
+    </category>
+    <category id="1142606" name="Джаз &amp; Блюз MP3"/>
+    <category id="1142615" name="Популярные музыкальные серии">
+      <category id="1142621" name="Музыкальные открытки (Musicards)"/>
+      <category id="1143702" name="BD Series"/>
+      <category id="1142620" name="Jazz Archives"/>
+      <category id="1142619" name="Blues Archives"/>
+    </category>
+  </category>
+  <category id="1143476" name="Виниловые пластинки">
+    <category id="1143478" name="Рок и Альтернатива"/>
+    <category id="1143481" name="World Music"/>
+    <category id="1143479" name="Джаз &amp; Блюз"/>
+    <category id="1143477" name="Популярная музыка"/>
+    <category id="1143480" name="Электронная музыка"/>
+    <category id="1172351" name="Российские исполнители"/>
+    <category id="1143483" name="Классическая музыка"/>
+  </category>
+  <category id="1142535" name="World Music">
+    <category id="1142539" name="Фолк и Этника">
+      <category id="1142574" name="World music"/>
+      <category id="1142576" name="Кантри музыка"/>
+      <category id="1142578" name="Латиноамериканская музыка"/>
+      <category id="1142581" name="Этническая музыка"/>
+      <category id="1142575" name="Ближний, Средний и Дальний Восток. Турция. Африка. Индия. Япония"/>
+      <category id="1142579" name="Русский фольклор"/>
+      <category id="1142577" name="Кельтский и Ирландский фольклор"/>
+      <category id="1142580" name="Цыганский фольклор"/>
+    </category>
+    <category id="1142543" name="Инструментальная музыка"/>
+    <category id="1142537" name="Музыка для отдыха и медитации">
+      <category id="1142601" name="Релаксация и медитация"/>
+      <category id="1142602" name="Сеансы исцеляющей музыки"/>
+      <category id="1142600" name="Натуральные звуки природы"/>
+    </category>
+    <category id="1142536" name="New Age"/>
+    <category id="1142542" name="Экспериментальная музыка. Авангард"/>
+    <category id="1142538" name="Регги и Даб">
+      <category id="1142598" name="Регги"/>
+      <category id="1142597" name="Dub"/>
+    </category>
+    <category id="1142545" name="Фьюжн"/>
+    <category id="1142548" name="Танцы, танцы, танцы...."/>
+    <category id="1142540" name="Музыка для релаксации MP3"/>
+    <category id="1142541" name="Фольклор и этническая музыка MP3"/>
+  </category>
+  <category id="1143661" name="Электронная музыка">
+    <category id="1143666" name="Dance"/>
+    <category id="1143670" name="House. Progressive House"/>
+    <category id="1143675" name="Techno. Electro"/>
+    <category id="1143673" name="Lounge. Chillout. Downtempo"/>
+    <category id="1143665" name="Ambient"/>
+    <category id="1143676" name="Top DJ мира и России"/>
+    <category id="1143678" name="Trance. Goa Trance. Progressive Trance"/>
+    <category id="1143685" name="Танцевальная музыка. Сборники"/>
+    <category id="1143679" name="Trip-Hop"/>
+    <category id="1143668" name="Experimental Electronic"/>
+    <category id="1143681" name="Альтернативная электронная музыка"/>
+    <category id="1143680" name="World Club Music"/>
+    <category id="1143687" name="Электронная и танцевальная музыка MP3"/>
+    <category id="1143683" name="Российская электронная сцена"/>
+    <category id="1143667" name="Drum &amp; Bass. Jungle. Break beat"/>
+    <category id="1143686" name="Фьюжн"/>
+    <category id="1143671" name="Ibiza Music. Amnesia. Pacha"/>
+    <category id="1143674" name="Space Rock"/>
+    <category id="1143672" name="IDM"/>
+    <category id="1143669" name="Hardcore"/>
+    <category id="1143684" name="Сборники Hotel Costes"/>
+    <category id="1143664" name="Линия FEELGOOD"/>
+  </category>
+</category>
