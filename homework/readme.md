@@ -10,5 +10,5 @@ xsltproc --output task03/result.xml --param categoryId 1133695 task03/template.x
 ```
 Команда для проверки 4-й задачи:
 ```bash
-xsltproc --output task04/result.xml --param categoryId 1133695 task04/template.xslt 1133680.xml
+xsltproc --output task04/result.html --param categoryId 1133695 task04/template.xslt 1133680.xml
 ```
