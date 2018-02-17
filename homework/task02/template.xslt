@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-	<xsl:output method="xml" version="1.0" encoding="UTF-8"/>
-    
+    <xsl:output method="xml" version="1.0" encoding="UTF-8"/>
+
     <xsl:template match="*|/">
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="text()|@*"/>
-    
+
     <xsl:template match="categories">
-		<xsl:element name="categories">
+        <xsl:element name="categories">
             <xsl:apply-templates select="category[not(@parentId)]"/>
         </xsl:element>
-	</xsl:template>
+    </xsl:template>
 
     <xsl:template match="category" name="category">
         <xsl:param name="parentId" select="false()"/>
