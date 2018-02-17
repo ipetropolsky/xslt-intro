@@ -15,7 +15,7 @@
 
     <xsl:template match="category" name="category">
         <xsl:param name="parentId" select="false()"/>
-        <xsl:variable name="items" select="node()[$parentId=false]|//category[@parentId=$parentId]" />
+        <xsl:variable name="items" select="category[$parentId=false]|//category[@parentId=$parentId]" />
         <xsl:for-each select="$items">
             <xsl:element name="category">
                 <xsl:copy-of select="@*"/>
