@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root code="404">
+    <error>Invalid movie id!</error>
+</root>
