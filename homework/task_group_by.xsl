@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-    <xsl:output indent="yes"/>
+    <xsl:output indent="yes" encoding="utf-8" />
+
     <xsl:key name="vend" match="offer" use="string(vendor)" />
 
     <xsl:template match="yml_catalog">

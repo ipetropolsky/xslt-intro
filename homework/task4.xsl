@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-    <xsl:import href="task4_salePrice.xsl"/>
     <xsl:import href="task4_badges.xsl"/>
     <xsl:import href="task4_normalPrice.xsl"/>
     <xsl:import href="task4_salePrice.xsl"/>
@@ -10,8 +9,7 @@
 
     <xsl:param name="category" select="0"/>
 
-    <xsl:output method="html"/>
-    <xsl:output indent="yes"/>
+    <xsl:output method="html" indent="yes" encoding="utf-8" />
 
     <xsl:template match="yml_catalog">
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
