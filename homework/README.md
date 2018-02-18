@@ -6,7 +6,7 @@ xsltproc --output output/result2.xml task2.xsl catalog.xml
 xsltproc --param category 1177528 --output output/result3.xml task3.xsl catalog.xml
 xsltproc --param category 1177528 --output output/result4.html task4.xsl catalog.xml
 xsltproc --output output/result_offer_tree.xml task_offer_tree.xsl catalog.xml
-xsltproc --output output/result_group_by.xml task_group_by.xml catalog.xml
+xsltproc --output output/result_group_by.xml task_group_by.xsl catalog.xml
 ```
 ### Что будет
 После выполнения всего этого, в папке output появятся выходные файлы, которые будут отражать решение задания.
