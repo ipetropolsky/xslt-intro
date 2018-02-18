@@ -40,10 +40,6 @@
         </div>
     </xsl:template>
 
-    <xsl:template match="offer" mode="offerWrapper">
-        <xsl:apply-imports />
-    </xsl:template>
-
     <xsl:template match="offer" mode="offerBody">
         <div class="card-body">
             <xsl:apply-templates select="picture[1]" />
@@ -59,7 +55,7 @@
                 <xsl:value-of select="description" />
             </p>
             <xsl:apply-templates select="price" mode="offerPrice" />
-            <xsl:apply-imports />
+            <xsl:apply-templates select="." mode="badgesList" />
             <table class="table table-sm" style="font-size:70%">
                 <xsl:apply-templates select="./param" mode="offerParam" />
             </table>
@@ -68,10 +64,6 @@
 
     <xsl:template match="picture">
         <img class="card-img-top" src="{.}" alt="Product picture" />
-    </xsl:template>
-
-    <xsl:template match="price" mode="offerPrice">
-        <xsl:apply-imports />
     </xsl:template>
 
     <xsl:template match="param" mode="offerParam">
