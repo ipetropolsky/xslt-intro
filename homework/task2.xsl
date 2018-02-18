@@ -15,7 +15,7 @@
     <xsl:template match="category">
         <category id="{@id}">
             <name><xsl:value-of select="."/></name>
-            <xsl:apply-templates select="../category[@parentId=current()/@id]"/>
+            <xsl:apply-templates select="ancestor::categories/category[@parentId=current()/@id]"/>
         </category>
     </xsl:template>
 
