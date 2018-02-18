@@ -17,7 +17,7 @@
     </xsl:template>
 
     <xsl:template match="offer">
-        <xsl:copy-of select="current()"/>
+        <xsl:copy-of select="."/>
     </xsl:template>
 
 </xsl:stylesheet>
