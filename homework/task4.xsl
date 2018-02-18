@@ -26,18 +26,14 @@
                 <div class="container-fluid">
                     <h1>Каталог</h1>
                     <h2><xsl:value-of select="shop/categories/category[@id = $category]" /></h2>
-                    <xsl:apply-templates select="shop/offers"/>
+                    <div class="row">
+                        <xsl:apply-templates select="shop/offers/offer[categoryId = $category]" mode="offerWrapper">
+                            <xsl:sort select="price" data-type="number" />
+                        </xsl:apply-templates>
+                    </div>
                 </div>
             </body>
         </html>
-    </xsl:template>
-
-    <xsl:template match="shop/offers">
-        <div class="row">
-            <xsl:apply-templates select="offer[categoryId = $category]" mode="offerWrapper">
-                <xsl:sort select="price" data-type="number" />
-            </xsl:apply-templates>
-        </div>
     </xsl:template>
 
     <xsl:template match="offer" mode="offerBody">
