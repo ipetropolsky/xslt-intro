@@ -1,0 +1,50 @@
+Статускод 400
+<error>
+	<text>Year must be numeric</text>
+</error>
+И другие ошибки, связанные связанные с невозможностью преобразования типов
+
+<error>
+	<text>Invalid API key!</text>
+</error>
+
+Статускод 403
+<error>
+	<text>Access restricted</text>
+</error>
+
+Статускод 404
+<error>
+	<text>Movie not found</text>
+</error>
+
+Статускод 405
+<error>
+	<text>There is no method /details on /staff</text>
+</error>
+
+Статускод 410
+<error>
+	<text>Movie is deleted</text>
+</error>
+
+Статускод 418
+<error>
+	<text>Unsuccessful coffee making</text>
+</error>
+
+Статускод 429
+<error>
+	<text>API Key rate limit reached</text>
+</error>
+
+Статускод 451
+<error>
+    <text>Results censored</text>
+</error>
+
+По статускодам 500, невозможно предугадать, что там будет
+По возможности, отвечаем 503
+<error>
+    <text>Service Unavailable</text>
+</error>
